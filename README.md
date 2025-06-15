@@ -1,4 +1,4 @@
 # PyPlus-Remastered
 
-Hi people. I'm NOVA. This is my first official Python Package.
+Hi chat. I'm NOVA. This is my first official Python Package.
 
